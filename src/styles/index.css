@@ -1,0 +1,45 @@
+@import url(./fonts.css);
+
+:root {
+  font-family: Vazir;
+  line-height: 1.5;
+  font-weight: 200;
+}
+
+body {
+  margin: auto;
+  max-width: 1400px;
+  min-height: 100vh;
+  padding: 10px;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: inherit;
+  color: inherit;
+}
+
+button,
+input,
+select {
+  font-family: inherit;
+}
+
+a,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+button,
+textarea,
+select {
+  font-family: Vazir;
+}
